@@ -143,7 +143,7 @@ O **Mirage** é um framework de computação evolucionária e inteligência cine
 
 * 🎓 **Bacharelado em Engenharia de Controle e Automação** — *Centro Universitário SENAI SP (UNISENAI)* `(2023 – 2027)`
 * ⚡ **Técnico em Eletroeletrônica** — *Escola SENAI A. Jacob Lafer* `(2018 – 2020)`
-* 🏅 **Certificações:** Lean Seis Sigma White Belt • AWS Academy Graduate (Cloud Foundations) • Python 3 & Collections
+* 🏅 **Certificações:** Lean Seis Sigma Yellow Belt • AWS Academy Graduate (Cloud Foundations) • Python 3 & Collections
 
 ---
 
