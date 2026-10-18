@@ -34,7 +34,7 @@ Minha atuação conecta a **engenharia de chão de fábrica** (modelagem dinâmi
 
 </div>
 
-> **Autores:** **Murilo Lameira da Silva** *(Autor Principal)*, Henry Matheus Fregolente Ferreira, Murilo Romualdo da Silva, Leonardo Retori Apolônio e Prof. Me. Ricardo Martinez Vicentini.  
+> **Autores:** **Murilo Lameira da Silva**, Henry Matheus Fregolente Ferreira, Murilo Romualdo da Silva, Leonardo Retori Apolônio e Prof. Me. Ricardo Martinez Vicentini.  
 > **Instituição:** Engenharia de Controle e Automação — Centro Universitário SENAI SP (UNISENAI), São Caetano do Sul, SP.
 
 O **Mirage** é um framework de computação evolucionária e inteligência cinemática vetorial desenvolvido em arquitetura híbrida (**Python / Pygame / NumPy / SciPy** e **MATLAB / GNU Octave**) para sintetizar comportamentos de evasão tática em Agentes Não-Jogáveis (*NPCs*) imersos em ambientes de *Bullet Hell* a $50\text{ FPS}$.
