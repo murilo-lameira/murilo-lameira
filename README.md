@@ -92,6 +92,7 @@ O **Mirage** é um framework de computação evolucionária e inteligência cine
 ## 💼 Experiência Profissional
 
 * 🏢 **Toledo do Brasil** — *Estagiário de Engenharia (Unidade Fast Factory & Automação)* `(Set/2026 – Presente)`
+  * Automação de fluxos de trabalho e processos operacionais de engenharia com **Microsoft Power Automate**.
   * Suporte técnico ao desenvolvimento e acompanhamento de projetos industriais de engenharia e automação.
   * Estruturação de KPIs operacionais, rastreamento de cronogramas e gestão de documentação técnica de engenharia.
 * 🛠️ **FTS Serviços Especializados de Manutenção** — *Estagiário de Engenharia* `(Abr/2026 – Set/2026)`
@@ -117,12 +118,13 @@ O **Mirage** é um framework de computação evolucionária e inteligência cine
 </p>
 
 <p align="left">
-  <b>IA, Ciência de Dados & Business Intelligence:</b><br>
+  <b>IA, Ciência de Dados & Power Platform:</b><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Genetic%20Algorithms%20%26%20MAP--Elites-FF6F00?style=for-the-badge" alt="Genetic Algorithms">
 </p>
 
