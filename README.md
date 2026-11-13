@@ -4,6 +4,7 @@
 
 ### ⚙️ Engenharia de Controle e Automação (SENAI) • 🤖 IA Evolutiva, Gêmeos Digitais & IoT • 📊 Inteligência de Dados
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-murilo--lameira.github.io-0F8F86?style=for-the-badge&logo=githubpages&logoColor=white)](https://murilo-lameira.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo%20Lameira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-lameira)
 [![Gmail](https://img.shields.io/badge/Email-murilolameira14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilolameira14@gmail.com)
 [![Mirage Paper](https://img.shields.io/badge/Artigo%20IEEE%2FSBC-Mirage%20(PDF)-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/murilo-lameira/Mirage/blob/main/paper/Mirage_Artigo_SENAI.pdf)
@@ -77,6 +78,8 @@ O **Mirage** é um framework de computação evolucionária e inteligência cine
 ---
 
 ## 🚀 Portfólio de Projetos de Engenharia & Software
+
+> 🌐 Veja os projetos com diagramas interativos de arquitetura em **[murilo-lameira.github.io](https://murilo-lameira.github.io)**.
 
 | Projeto | Domínio & Tecnologias | Destaques Técnicos & Impacto |
 | :--- | :--- | :--- |
