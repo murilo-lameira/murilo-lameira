@@ -7,7 +7,7 @@
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-murilo--lameira.github.io-0F8F86?style=for-the-badge&logo=githubpages&logoColor=white)](https://murilo-lameira.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo%20Lameira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-lameira)
 [![Gmail](https://img.shields.io/badge/Email-murilolameira14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilolameira14@gmail.com)
-[![Mirage Paper](https://img.shields.io/badge/Artigo%20IEEE%2FSBC-Mirage%20(PDF)-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/murilo-lameira/Mirage/blob/main/paper/Mirage_Artigo_SENAI.pdf)
+[![Mirage Paper](https://img.shields.io/badge/Artigo%20Congresso%20SENAI-Mirage%20(PDF)-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/murilo-lameira/Mirage/blob/main/paper/Mirage_Artigo_SENAI.pdf)
 [![Location](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-ABC%20Paulista%2C%20SP-2ea44f?style=for-the-badge)](https://github.com/murilo-lameira)
 
 </div>
@@ -28,7 +28,7 @@ Minha atuação conecta a **engenharia de chão de fábrica** (modelagem dinâmi
 
 ### 🌌 [Mirage: Adaptação Evolutiva de NPCs sob Restrição Orçamentária com Esquiva Preditiva](https://github.com/murilo-lameira/Mirage)
 
-[![Status](https://img.shields.io/badge/Artigo%20Cient%C3%ADfico-IEEE%20%2F%20SBC%20Short%20Paper-success?style=flat-square)](https://github.com/murilo-lameira/Mirage/blob/main/paper/Mirage_Artigo_SENAI.pdf)
+[![Status](https://img.shields.io/badge/Artigo%20Cient%C3%ADfico-Congresso%20SENAI-success?style=flat-square)](https://github.com/murilo-lameira/Mirage/blob/main/paper/Mirage_Artigo_SENAI.pdf)
 [![PDF](https://img.shields.io/badge/📄%20Baixar%20Artigo%20(PDF)-Mirage__Artigo__SENAI.pdf-EC1C24?style=flat-square)](https://github.com/murilo-lameira/Mirage/blob/main/paper/Mirage_Artigo_SENAI.pdf)
 [![LaTeX](https://img.shields.io/badge/📝%20C%C3%B3digo--Fonte%20LaTeX-Mirage__Artigo__SENAI.tex-008080?style=flat-square)](https://github.com/murilo-lameira/Mirage/blob/main/paper/Mirage_Artigo_SENAI.tex)
 [![Repo](https://img.shields.io/badge/💻%20Reposit%C3%B3rio%20Oficial-murilo--lameira%2FMirage-181717?style=flat-square&logo=github)](https://github.com/murilo-lameira/Mirage)
@@ -68,7 +68,7 @@ O **Mirage** é um framework de computação evolucionária e inteligência cine
 @inproceedings{silva2026mirage,
   title     = {Mirage: Adapta{\c{c}}{\~a}o Evolutiva de NPCs sob Restri{\c{c}}{\~a}o Or{\c{c}}ament{\'a}ria com Esquiva Preditiva},
   author    = {Silva, Murilo Lameira da and Ferreira, Henry Matheus Fregolente and Silva, Murilo Romualdo da and Apol{\^o}nio, Leonardo Retori and Vicentini, Ricardo Martinez},
-  booktitle = {Simp{\'o}sio Brasileiro de Jogos e Entretenimento Digital (SBGames) / IEEE CoG},
+  booktitle = {Congresso SENAI},
   year      = {2026},
   address   = {S{\~a}o Caetano do Sul, SP, Brasil}
 }
